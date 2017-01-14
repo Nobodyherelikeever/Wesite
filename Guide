@@ -1,1 +1,6 @@
+<!DOCTYPE html>, Must be at the top of every html code
+<head></head>, All the meta data
+<body></body>, All the data to be shown on your page
+<h ></h >, h1-h6 Heading from greatest of importance to least
+<p></p>, Pararaphs in the body
 
